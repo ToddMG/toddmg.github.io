@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Todd Gonzalez - Data Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Data Scientist graduate at Lambda School with an A.S. in Computer Science at DeAnza College in Silicon Valley.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Machine Learning fanatic by day, avid snowboarder and explorer by night..? If I'm not deep in my next Neural Network project I'm either asleep, going 60mph down the slope or both. Music in my ears at all times to paint my surroundings in whichever color I choose. Highly competitive gamer, a bad loser but a damn good learner. Born and raised in Costa Rica, living in Boston and dreaming of Japan.
