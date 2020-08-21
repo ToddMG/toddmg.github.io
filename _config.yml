@@ -4,14 +4,14 @@
 title: Todd Gonzalez
 
 # Short description of your site
-description: Todd Gonzalez - Data Scientist
+description: Data Scientist
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "toddmg.dev"
+url: "https://toddmg.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,11 +20,10 @@ url: "toddmg.dev"
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "toddmg.dev"
+  Projects: "projects"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -60,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Todd Gonzalez
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,17 +67,17 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "toddmg@pm.me"
+#  facebook: 
+  github: toddmg
+#  twitter: 
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/todd-gonzalez/
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "3943160/yourname"
+#  snapchat: 
+#  instagram: 
+#  youtube: user/yourname
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
