@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Predicting Flight Delays
+image: /img/hello_world.jpeg
 ---
+
 
 ## Predicting Flight Delays
 
