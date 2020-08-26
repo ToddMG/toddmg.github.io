@@ -1,6 +1,7 @@
 ---
 layout: post
 title: US Ski Resort Analysis
+image: /img/hello_world.jpeg
 ---
 
 ## US Ski Resort Analysis
