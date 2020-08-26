@@ -1,4 +1,9 @@
-## Ski Resort Analysis
+---
+layout: post
+title: US Ski Resort Analysis
+---
+
+## US Ski Resort Analysis
 
 ![](https://cdn-images-1.medium.com/max/3000/1*kOQQQoPM-NK9HfWP0JdYJA.jpeg)
 
