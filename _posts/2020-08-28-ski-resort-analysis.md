@@ -3,12 +3,9 @@ layout: post
 title: US Ski Resort Analysis
 image: /img/hello_world.jpeg
 ---
-
-## US Ski Resort Analysis
+So I’m obsessed with snowboarding. Really obsessed. I’m planning on trying out at least two unique resorts per year, and to this end, I’ll be working on a Ski Resort dataset provided by Bellamy on Kaggle (see below).
 
 ![](https://cdn-images-1.medium.com/max/3000/1*kOQQQoPM-NK9HfWP0JdYJA.jpeg)
-
-So I’m obsessed with snowboarding. Really obsessed. I’m planning on trying out at least two unique resorts per year, and to this end, I’ll be working on a Ski Resort dataset provided by Bellamy on Kaggle (see below).
 
 First of all I’ll be cleaning up the data set since it was just scraped from Skiresort.info.
 
