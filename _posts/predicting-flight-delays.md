@@ -1,3 +1,9 @@
+---
+layout: post
+title: Predicting Flight Delays
+image: /img/hello_world.jpeg
+---
+
 ## Predicting Flight Delays
 
 ![](https://cdn-images-1.medium.com/max/2000/1*eIjMz7BfU07FtTXX9zI0VA.jpeg)
