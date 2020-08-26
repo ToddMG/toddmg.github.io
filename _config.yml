@@ -20,7 +20,7 @@ url: "https://toddmg.github.io"
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
+  Blog: "https://www.toddmg.dev/"
   Projects: "projects"
   About Me: "aboutme"
   Resume: "Todd Gonzalez Resume.pdf"
