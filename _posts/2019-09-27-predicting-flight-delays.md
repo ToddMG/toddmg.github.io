@@ -3,12 +3,11 @@ layout: post
 title: Predicting Flight Delays
 image: /img/hello_world.jpeg
 ---
-
-![](https://cdn-images-1.medium.com/max/2000/1*eIjMz7BfU07FtTXX9zI0VA.jpeg)
-
 One of the biggest challenges in the aviation industry is the unpredictability of flight delays. However, with modern Data Science tools and the right collected data we can make an effort to predict the unpredictable.
 
 We’ll be using a dataset from 2015 flight delays, covering nearly 6 million flights and each flight having 31 columns worth of values, which ends up being around 180 million observations total. This is far too much for the scope of this project, so we’ll be using 10% of that data instead.
+
+![](https://cdn-images-1.medium.com/max/2000/1*eIjMz7BfU07FtTXX9zI0VA.jpeg)
 
 ## Data Exploration/Wrangling
 
