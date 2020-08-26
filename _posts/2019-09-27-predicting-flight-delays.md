@@ -4,12 +4,7 @@ title: Predicting Flight Delays
 image: /img/hello_world.jpeg
 ---
 
-
-## Predicting Flight Delays
-
 ![](https://cdn-images-1.medium.com/max/2000/1*eIjMz7BfU07FtTXX9zI0VA.jpeg)
-
-## Introduction
 
 One of the biggest challenges in the aviation industry is the unpredictability of flight delays. However, with modern Data Science tools and the right collected data we can make an effort to predict the unpredictable.
 
