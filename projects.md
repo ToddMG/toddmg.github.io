@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About me
+title: Projects
 subtitle: Build in progress! Come back later!
 ---
