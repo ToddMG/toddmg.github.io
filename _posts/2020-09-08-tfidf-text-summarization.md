@@ -2,7 +2,6 @@
 layout: post
 title: # TFIDF-Text-Summarization
 ---
-## Project Definition
 Text summarization API built using Sklearn TF-IDF, topic modeling and FastAPI.
 
 ## Project Breakdown:
