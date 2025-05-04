@@ -23,7 +23,7 @@ navbar-links:
   Blog: "https://www.toddmg.dev/"
   Github: "http://github.com/toddmg"
   About Me: "aboutme"
-  Resume: "Todd Gonzalez Resume.pdf"
+  Resume: "Todd Munyon Resume - Data Scientist.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Todd Gonzalez
+  name: Munyon
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,7 +72,7 @@ social-network-links:
   github: toddmg
 #  twitter: 
 #  reddit: yourname
-  linkedin: todd-gonzalez
+  linkedin: todd-munyon
 #  xing: yourname
 #  stackoverflow: "3943160/yourname"
 #  snapchat: 
@@ -92,7 +92,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "toddmg.dev"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "toddmunyon.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
